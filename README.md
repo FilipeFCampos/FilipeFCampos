@@ -19,4 +19,4 @@ I love programming and want to become a software engineer in the near future!!
 
 ## latest projects 🔥:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Samsratinho&repo=Desafio-Tecnico-Projetos-FRONT-END-24.2&theme=tokyonight)](https://github.com/Samsratinho/Desafio-Tecnico-Projetos-FRONT-END-24.2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aliragm&repo=base_defense&theme=tokyonight)](https://github.com/Aliragm/https://github.com/Aliragm/base_defense)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aliragm&repo=base_defense&theme=tokyonight)](https://github.com/Aliragm/base_defense)
