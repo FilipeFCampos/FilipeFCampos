@@ -2,10 +2,10 @@
 I'm currently studying Information Technology at [Instituto Metrópole Digital (IMD-UFRN)](https://www.metropoledigital.ufrn.br).<br>
 I love programming and want to become a software engineer in the near future!!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FilipeFCampos&show_icons=true&theme=tokyonight&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FilipeFCampos&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 <br><br>
