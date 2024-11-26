@@ -22,5 +22,4 @@ I love programming and want to become a software engineer in the near future!!
 </div>
 
 ## latest projects 🔥:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipeFCampos&repo=Politik&theme=tokyonight)](https://github.com/FilipeFCampos/Politik)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aliragm&repo=base_defense&theme=tokyonight)](https://github.com/Aliragm/base_defense)
