@@ -6,7 +6,7 @@ I love programming and want to become a software engineer in the near future!!
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FilipeFCampos&show_icons=true&theme=tokyonight&rank_icon=github" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FilipeFCampos&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FilipeFCampos&layout=compact&langs_count=8&card_width=320&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
 </a>
 <br><br>
 
