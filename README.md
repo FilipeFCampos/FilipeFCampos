@@ -18,7 +18,8 @@ I love programming and want to become a software engineer in the near future!!
   <img style="width:40px; height:40px;" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  
   <img style="width:45px; height:45px;" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />   
   <img style="width:45px; height:45px;" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> 
-  <img style="width:40px; height:40px;" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />     
+  <img style="width:40px; height:40px;" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />    
+  <img style="width:45px; height:45px;" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
 ## Latest projects 🔥:
