@@ -24,4 +24,4 @@ I love programming and want to become a software engineer in the near future!!
 
 ## Latest projects 🔥:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipeFCampos&repo=PDF_Manager&theme=tokyonight)](https://github.com/FilipeFCampos/PDF_Manager.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aliragm&repo=base_defense&theme=tokyonight)](https://github.com/Aliragm/base_defense)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipeFCampos&repo=Politik&theme=tokyonight)](https://github.com/FilipeFCampos/Politik)
